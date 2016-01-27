@@ -1,0 +1,24 @@
+{
+  "name": "socket-sliders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-netcat": "^1.4.8"
+    "socket.io": "^2.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willd/esp8266-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willd/esp8266-projects/issues"
+  },
+  "homepage": "https://github.com/willd/esp8266-projects#readme"
+}
